@@ -1,0 +1,6 @@
+## TUGAS CASE BASED SEARCHING MATKUL KECERDASAN BUATAN
+
+### ANGGOTA KELOMPOK
+
+1. Haikal Fadhilah Mufid
+2. Aulia Ahmad Ghaus Adzam
