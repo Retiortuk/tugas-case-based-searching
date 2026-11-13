@@ -126,11 +126,10 @@ def run_ga():
         
     return best_overall_chrom, best_overall_val
 
-# Eksekusi Program
+
 best_chrom, best_val = run_ga()
 best_x1, best_x2 = decode(best_chrom, BIT_LEN, X_MIN, X_MAX)
 
-# Output Program
 print("===== HASIL OPTIMASI ALGORITMA GENETIKA =====")
 print(f"Kromosom Terbaik: {best_chrom}")
 print(f"Nilai x1       : {best_x1:.6f}")
